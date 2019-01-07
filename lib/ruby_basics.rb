@@ -10,9 +10,9 @@ def argue(thing)
   return thing
 end
 
-def greeting
+def greeting(name , language)
   
-  end
+end
 
 def return_a_value
 
